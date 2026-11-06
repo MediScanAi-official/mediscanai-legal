@@ -9,6 +9,7 @@ Published at **[legal.mediscanai.app](https://legal.mediscanai.app)**.
 - [Privacy Policy](PRIVACY_POLICY.md) · [web version](https://legal.mediscanai.app/privacy.html)
 - [Terms of Service](TERMS_OF_SERVICE.md) · [web version](https://legal.mediscanai.app/terms.html)
 - [Medical Disclaimer](MEDICAL_DISCLAIMER.md) · [web version](https://legal.mediscanai.app/disclaimer.html)
+- [Delete your account and data](delete-account.html) · [web version](https://legal.mediscanai.app/delete-account.html) (the account-deletion URL for Google Play)
 
 ## Links
 
