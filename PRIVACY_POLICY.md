@@ -60,7 +60,7 @@ To keep the app stable and understand which features are useful, we collect **an
 This data is processed by Google as our data processor and is not used for advertising. If you would like this disabled for your install, contact us at the email in Section 13.
 
 ### 2.6 In-App Feedback
-If you use **Settings → Send Feedback**, your message opens in *your own email app*. Whatever you choose to send (your message, plus the app version and device model we pre-fill to help us debug) goes directly to our support inbox by email — there is no server in between.
+If you use **Profile tab → Send Feedback**, your message opens in *your own email app*. Whatever you choose to send (your message, plus the app version and device model we pre-fill to help us debug) goes directly to our support inbox by email — there is no server in between.
 
 ### 2.7 Steps from Health Connect (Optional)
 - Only if you turn on **Sync steps automatically**, the app asks Android Health Connect for **read-only** access to your **step count** - nothing else, and it never writes to Health Connect.
