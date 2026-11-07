@@ -136,7 +136,7 @@ These Terms are governed by the laws of **India**. Any disputes shall be subject
 
 For questions about these Terms:
 
-**Email:** legal@mediscanai.app  
+**Email:** support@mediscanai.app  
 **Developer:** MediScanAi-official  
 **Country:** India
 
